@@ -1,0 +1,22 @@
+{
+  "name": "botsbase.js",
+  "version": "0.0.2",
+  "description": "BotsBase.net API",
+  "main": "x.js",
+  "scripts": {
+    "test": "node x"
+  },
+  "keywords": [
+    "bots",
+    "base",
+    "botsbase",
+    "api",
+    "offical",
+    "nodejs",
+    "lastvote",
+    "botlist",
+    "botsfor"
+  ],
+  "author": "Roxza#6666,Aronshire#8111",
+  "license": "MIT"
+}

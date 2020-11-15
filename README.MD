@@ -66,4 +66,4 @@ console.log(lastvote)
 })
 ```
 
-#### Roxza <3
+#### Aronshire & Roxza <3
